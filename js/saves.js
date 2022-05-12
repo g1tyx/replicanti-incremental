@@ -203,7 +203,7 @@ function exporty() {
 }
 
 function importy() {
-    let loadgame = prompt("Paste in your save WARNING: WILL OVERWRITE YOUR CURRENT SAVE")
+    let loadgame = prompt("粘贴您的存档警告：将覆盖您当前的游戏进度")
     if (loadgame != null) {
         load(loadgame)
         location.reload()
