@@ -54,7 +54,7 @@ var cnItems = {
     "Replicanti to unlock new Infinity Challenge": "Replicanti 解锁新的无限挑战",
     "replicanti, make replicanti penalty is raised by": "复制品，使复制品的惩罚被提高",
     "replicanti, make replicanti penalty/slowdown is raised by": "复制品，使复制品的惩罚/减速被提高",
-    "replicanti, make their growth is rooted by": "复制品，让他们的成长基于",
+    "replicanti, make their growth is rooted by": "复制品，让他们的成长开根",
     "replicator, which boosts Infinity Replicanti growth by ^": "复制品器，可将 无限复制品 增长 ^",
     "Reset previous features for": "重置以前的功能并获得",
     "Reset your Infinity Replicanti except thier upgrades, but adds": "重置您的 无限复制品，但升级除外，但添加",
